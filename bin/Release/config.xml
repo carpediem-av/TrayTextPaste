@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CopySwitchPasteHotkey>Shift-Ctrl-Alt-Z</CopySwitchPasteHotkey>
+    <Strings>пример 1&#xD;
+пример 2-3&#xD;
+    пример 2&#xD;
+    пример 3&#xD;
+пример 4{tab}с{tab}табами&#xD;
+Test</Strings>
+</Config>

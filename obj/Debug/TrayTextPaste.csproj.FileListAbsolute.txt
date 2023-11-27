@@ -1,0 +1,14 @@
+H:\PROJ\Prog\TrayTextPaste\bin\Debug\TrayTextPaste.exe.config
+H:\PROJ\Prog\TrayTextPaste\bin\Debug\TrayTextPaste.exe
+H:\PROJ\Prog\TrayTextPaste\bin\Debug\TrayTextPaste.pdb
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.csproj.AssemblyReference.cache
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.Properties.Resources.resources
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.csproj.GenerateResource.cache
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.csproj.CoreCompileInputs.cache
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.exe
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.pdb
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.FormEditor.resources
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.FormConfig.resources
+H:\PROJ\Prog\TrayTextPaste\bin\Debug\WindowsInput.dll
+H:\PROJ\Prog\TrayTextPaste\bin\Debug\WindowsInput.xml
+H:\PROJ\Prog\TrayTextPaste\obj\Debug\TrayTextPaste.csproj.CopyComplete
